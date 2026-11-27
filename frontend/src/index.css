@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-ns: 'Open Sans', Arial, sans-serif;
+
+  --color-ns-navy: #24385b;
+  --color-ns-blue: #1f5ea8;
+  --color-ns-blue-dark: #16498a;
+  --color-ns-blue-hover: #163f73;
+  --color-ns-text: #262626;
+  --color-ns-muted: #4d4d4d;
+  --color-ns-muted-2: #595959;
+  --color-ns-border: #d9d9d9;
+  --color-ns-border-strong: #c7c7c7;
+  --color-ns-input: #b2b2b2;
+  --color-ns-header: #e5e5e5;
+  --color-ns-section: #dfe6ef;
+  --color-ns-row-alt: #f7f7f7;
+  --color-ns-row-open: #dde8f5;
+  --color-ns-detail: #f5f8fb;
+  --color-ns-focus: #8fb3e0;
+  --color-ns-btn: #f0f0f0;
+  --color-ns-btn-hover: #e4e4e4;
+  --color-ns-tab: #eeeeee;
+  --color-ns-required: #fffbe6;
+  --color-ns-error: #b42318;
+  --color-ns-error-bg: #fdecea;
+  --color-ns-footer: #f5f5f5;
+  --color-ns-subtitle: #c9d4e3;
+  --color-ns-overlay: rgb(20 28 40 / 0.4);
+  --color-ns-readonly-bg: #f2f2f2;
+  --color-ns-readonly-border: #d0d0d0;
+  --color-ns-placeholder: #767676;
+
+  --color-ns-success: #1e6b32;
+  --color-ns-success-bg: #e3f3e6;
+  --color-ns-success-border: #9fd1ab;
+  --color-ns-warning: #8a5a00;
+  --color-ns-warning-bg: #fff4d6;
+  --color-ns-warning-border: #e8c56a;
+  --color-ns-danger: #a12619;
+  --color-ns-danger-bg: #fdecea;
+  --color-ns-danger-border: #f0a9a1;
+  --color-ns-info: #1f4f8a;
+  --color-ns-info-bg: #e3edf9;
+  --color-ns-info-border: #a9c4e8;
+}
